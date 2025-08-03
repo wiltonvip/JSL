@@ -82,7 +82,7 @@
 </head>
 <body>
 
-  <h1 id="pergunta">Você me ama?</h1>
+  <h1 id="pergunta">mereço um aumento?</h1>
 
   <div class="btn-container" id="botoes">
     <button id="yes">Sim meu melhor funcionário</button>
