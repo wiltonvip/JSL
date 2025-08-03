@@ -80,7 +80,6 @@
     }
   </style>
 </head>
-<body>
 
   <h1 id="pergunta">mereço um aumento?</h1>
 
